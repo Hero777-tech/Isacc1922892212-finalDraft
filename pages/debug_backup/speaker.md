@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <script src="../assets/js/script.js"></script>
+    <title>ISACC SPEAKERS</title>
+</head>
+
+<body>  
+
+<header>
+    <div class="container">
+        <!-- Logo Section -->
+        <div class="logo-container">
+            <a href="https://www.aus.ac.in/" target="_blank">
+                <img src="../assets/images/aus-logo.png" alt="Assam University Logo" class="logo">
+            </a>
+            <a href="index.html">
+                <img src="../assets/images/isacc-logo.png" alt="ISACC Logo" class="logo">
+            </a>
+        </div>
+
+        <!-- Navigation Section -->
+        <nav class="main-nav">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="./about.html">About</a></li>
+                <li><a href="./speakers.html">Speakers</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">ISACC 2025</a>
+                    <div class="dropdown-content">
+                        <a href="./commitees.html">Committees</a>
+                        <a href="./tracks.html">Tracks</a>
+                        <a href="./pages/submission.html">Submission</a>
+                        <a href="./registration.html">Registration and Fees</a>
+                        <a href="./author.html">Author Notification</a>
+                        <a href="./dates.html">Important Dates</a>
+                        <a href="./gallery.html">Gallery</a>
+                    </div>
+                </li>
+                <li><a href="./schedule.html">Schedule</a></li>
+                <li><a href="./sponsors.html">Technical Sponsors</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Past Conferences</a>
+                    <div class="dropdown-content">
+                        <a href="https://ieeexplore.ieee.org/xpl/conhome/10083315/proceeding">ISACC 2023</a>
+                        <a href="https://ieeexplore.ieee.org/xpl/conhome/7368273/proceeding">ISACC 2015</a>
+                    </div>
+                </li>
+                <li><a href="./venue.html">Venue and Contact</a></li>
+            </ul>
+        </nav>
+        
+        <!-- Mobile Menu Toggle -->
+        <div class="menu-toggle">☰</div>
+    </div>
+</header>
+
+
+
+
+
+
+
+
+     <!-- Speakers Section -->
+     <!-- Upcoming Speakers Section -->
+    <section id="upcoming-speakers" class="speakers-section">
+        <h2>Upcoming Speakers</h2>
+        <div class="speakers-grid">
+            <!-- Placeholder Speakers -->
+            <div class="speaker placeholder">
+                <div class="speaker-placeholder-content">
+                    <h3>ISACC 2025</h3>
+                    <p>TO BE DECIDED (TBD)</p>
+                    <h4>KEYNOTE 1</h4>
+                    <p>TBD</p>
+                </div>
+            </div>
+            <div class="speaker placeholder">
+                <div class="speaker-placeholder-content">
+                    <h3>ISACC 2025</h3>
+                    <p>TO BE DECIDED (TBD)</p>
+                    <h4>KEYNOTE 2</h4>
+                    <p>TBD</p>
+                </div>
+            </div>
+            <div class="speaker placeholder">
+                <div class="speaker-placeholder-content">
+                    <h3>ISACC 2025</h3>
+                    <p>TO BE DECIDED (TBD)</p>
+                    <h4>KEYNOTE 3</h4>
+                    <p>TBD</p>
+                </div>
+            </div>
+            <div class="speaker placeholder">
+                <div class="speaker-placeholder-content">
+                    <h3>ISACC 2025</h3>
+                    <p>TO BE DECIDED (TBD)</p>
+                    <h4>KEYNOTE 4</h4>
+                    <p>TBD</p>
+                </div>
+            </div>
+            <div class="speaker placeholder">
+                <div class="speaker-placeholder-content">
+                    <h3>ISACC 2025</h3>
+                    <p>TO BE DECIDED (TBD)</p>
+                    <h4>KEYNOTE 5</h4>
+                    <p>TBD</p>
+                </div>
+            </div>
+            <div class="speaker placeholder">
+                <div class="speaker-placeholder-content">
+                    <h3>ISACC 2025</h3>
+                    <p>TO BE DECIDED (TBD)</p>
+                    <h4>KEYNOTE 6</h4>
+                    <p>TBD</p>
+                </div>
+            </div>
+            
+            </div>
+        </div>
+    </section>
+
+    <!-- Past Speakers Section -->
+    <section id="past-speakers" class="speakers-section">
+        <h2>Past Speakers</h2>
+        <div class="speakers-grid">
+            <div class="speaker">
+                <img src="./speakers/joao.jpg" alt="Professor João Gama">
+                <h3> Professor João Gama </h3>
+                <p>Laboratory of Artificial Intelligence and Decision Support, and Faculty of Economics,
+                    University of Porto, Portugal</p>
+            </div>
+            <div class="speaker">
+                <img src="./speakers/Marcin.jpg" alt="Professor Marcin Paprzycki">
+                <h3>Professor Marcin Paprzycki</h3>
+                <p>Systems Research Institute, Polish Academy of Sciences, Warsaw, Poland</p>
+            </div>
+            <div class="speaker">
+                <img src="./speakers/Pathan.jpg" alt="Professor Al-Sakib Khan Pathan">
+                <h3>Professor Al-Sakib Khan Pathan</h3>
+                <p>United International University (UIU), Bangladesh</p>
+            </div>
+            
+            <div class="speaker">
+                <img src="./speakers/amit.jpg" alt="Professor Amit Roy Chowdhury">
+                <h3>Professor Amit Roy Chowdhury</h3>
+                <p>IIEST, Shibpur, West Bengal, India</p>
+            </div>
+            <div class="speaker">
+                <img src="./speakers/SBANDA.jpg" alt="Professor Sivaji Bandyopadhyay">
+                <h3>Professor Sivaji Bandyopadhyay</h3>
+                <p>Former Director, National Institute Of Technology, Silchar, Assam, India
+                    And
+                    Professor, Department of Computer Science & Engineering
+                    Jadavpur University, Kolkata, West Bengal, India</p>
+            </div>
+            
+            <div class="speaker">
+                <img src="./speakers/sks.jpg" alt="Professor Shikhar Kumar Sarma">
+                <h3>Professor Shikhar Kumar Sarma</h3>
+                <p>Department of Information Technology, Gauhati University, Guwahati, Assam, India</p>
+            </div>
+        </div>
+    </section>
+    
+    
+<!-- FOOTER -->
+
+<footer>
+    <div class="footer-container">
+        <div class="footer-left">
+            <p>&copy; 2024 Assam University, India | All Rights Reserved</p>
+            <p>Department of Computer Science & Engineering, Assam University</p>
+        </div>
+        <div class="footer-center">
+            <!-- Back to Top Button -->
+            <a href="#top" class="back-to-top">Back to Top</a>
+            <!-- Visitor Counter -->
+            <div class="visitor-counter">
+                <a href="https://www.free-counters.org/">Get free Counters</a>
+                <script type="text/javascript" src="https://www.freevisitorcounters.com/auth.php?id=97ee0afb70787acfcaeb0105769f40f77c44f6be"></script>
+                <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1227508/t/5"></script>
+            </div>
+        </div>
+        <div class="footer-right">
+            <h3>Location</h3>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14501.563105449173!2d92.75134!3d24.67909!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374e3824e8e868b9%3A0x78c2682ac4badc2b!2sDepartment%20of%20Computer%20Science%20%26%20Engineering%2C%20Assam%20University!5e0!3m2!1sen!2sin!4v1725109964004!5m2!1sen!2sin" width="250" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+</footer>
+
+
+
+
+</body>
+</html>
