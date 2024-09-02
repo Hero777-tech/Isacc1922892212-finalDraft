@@ -305,7 +305,7 @@ header.sticky {
 
 @media (max-width: 768px) {
     .conference-content h1 {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     .conference-date, .conference-location {
