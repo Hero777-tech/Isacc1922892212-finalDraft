@@ -2674,6 +2674,11 @@ footer {
         font-size: 32px;
     }
 
+    .schedule-placeholder{
+        padding: 60px 19px;
+        /* overflow: auto; */
+    }
+
     .schedule-placeholder p {
         font-size: 22px;
     }
